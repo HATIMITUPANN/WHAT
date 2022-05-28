@@ -1,0 +1,24 @@
+body {
+    background-color: white;
+    color: #515254;
+    margin: 120px;
+}
+a:any-link{
+    color:greenyellow;
+      }
+.mokuji {
+    width: 200px; /* 要素の幅指定は必須です */
+    margin-left: auto;
+    margin-right: auto;
+}
+h2 {
+    padding: 0.25em 0.5em; /*上下 左右の余白*/
+    color: lightblue; /*文字色*/
+    background: transparent; /*背景透明に*/
+    border-left: solid 5px #7db4e6; /*左線*/
+}
+.haike {
+    background-color: #FFFF99;
+    color:red;
+    width: 463px;
+}
